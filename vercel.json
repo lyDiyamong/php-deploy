@@ -23,7 +23,7 @@
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
-        "APP_KEY": "YOURAPPKEY",
+        "APP_KEY": "base64:X7AtTdztRbM6ALfrMUeX6OmDixOk3IUxcFfq+ORGqso=",
         "APP_DEBUG": "true",
         "APP_URL": "https://your-vercel-domain.vercel.app",
 
